@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AmeerHamza73537/Leetcode/tree/master/0015-3sum) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AmeerHamza73537/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AmeerHamza73537/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
