@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AmeerHamza73537/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AmeerHamza73537/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AmeerHamza73537/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AmeerHamza73537/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AmeerHamza73537/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AmeerHamza73537/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 ## String
