@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AmeerHamza73537/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmeerHamza73537/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 ## Sorting
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AmeerHamza73537/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
