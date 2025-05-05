@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AmeerHamza73537/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AmeerHamza73537/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmeerHamza73537/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
