@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AmeerHamza73537/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AmeerHamza73537/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AmeerHamza73537/Leetcode/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Interactive
