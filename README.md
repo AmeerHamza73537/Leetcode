@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/AmeerHamza73537/Leetcode/tree/master/0792-binary-search) |
+| [1137-height-checker](https://github.com/AmeerHamza73537/Leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
+| [1137-height-checker](https://github.com/AmeerHamza73537/Leetcode/tree/master/1137-height-checker) |
 ## String
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/AmeerHamza73537/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
