@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AmeerHamza73537/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AmeerHamza73537/Leetcode/tree/master/0242-valid-anagram) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/AmeerHamza73537/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmeerHamza73537/Leetcode/tree/master/0242-valid-anagram) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AmeerHamza73537/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
