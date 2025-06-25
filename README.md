@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
 | [0908-middle-of-the-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
+| [1894-merge-strings-alternately](https://github.com/AmeerHamza73537/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
 | [0782-jewels-and-stones](https://github.com/AmeerHamza73537/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
+| [1894-merge-strings-alternately](https://github.com/AmeerHamza73537/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
