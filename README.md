@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmeerHamza73537/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AmeerHamza73537/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
 ## Stack
