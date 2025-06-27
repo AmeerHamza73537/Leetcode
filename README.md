@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AmeerHamza73537/Leetcode/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/AmeerHamza73537/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
 | [0782-jewels-and-stones](https://github.com/AmeerHamza73537/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0812-rotate-string) |
@@ -196,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/AmeerHamza73537/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
