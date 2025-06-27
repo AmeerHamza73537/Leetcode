@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AmeerHamza73537/Leetcode/tree/master/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/AmeerHamza73537/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -204,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/AmeerHamza73537/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
