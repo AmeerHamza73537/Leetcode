@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AmeerHamza73537/Leetcode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/AmeerHamza73537/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
 | [1137-height-checker](https://github.com/AmeerHamza73537/Leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/AmeerHamza73537/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
 | [0908-middle-of-the-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/AmeerHamza73537/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/AmeerHamza73537/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/AmeerHamza73537/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/AmeerHamza73537/Leetcode/tree/master/1137-height-checker) |
 ## String
 |  |
