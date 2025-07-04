@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/AmeerHamza73537/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/AmeerHamza73537/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmeerHamza73537/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/AmeerHamza73537/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
