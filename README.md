@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
+| [0874-backspace-string-compare](https://github.com/AmeerHamza73537/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/AmeerHamza73537/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0481-magical-string) |
 | [0782-jewels-and-stones](https://github.com/AmeerHamza73537/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/AmeerHamza73537/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/AmeerHamza73537/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AmeerHamza73537/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/AmeerHamza73537/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/AmeerHamza73537/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AmeerHamza73537/Leetcode/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/AmeerHamza73537/Leetcode/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
