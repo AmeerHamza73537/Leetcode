@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmeerHamza73537/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmeerHamza73537/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AmeerHamza73537/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AmeerHamza73537/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmeerHamza73537/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AmeerHamza73537/Leetcode/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/AmeerHamza73537/Leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmeerHamza73537/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmeerHamza73537/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmeerHamza73537/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AmeerHamza73537/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AmeerHamza73537/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AmeerHamza73537/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AmeerHamza73537/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AmeerHamza73537/Leetcode/tree/master/0782-jewels-and-stones) |
