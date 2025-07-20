@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/AmeerHamza73537/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AmeerHamza73537/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/AmeerHamza73537/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AmeerHamza73537/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting Sort
 |  |
 | ------- |
