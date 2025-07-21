@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AmeerHamza73537/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AmeerHamza73537/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/AmeerHamza73537/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AmeerHamza73537/Leetcode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/AmeerHamza73537/Leetcode/tree/master/0941-sort-array-by-parity) |
