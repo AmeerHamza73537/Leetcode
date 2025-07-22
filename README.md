@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/AmeerHamza73537/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AmeerHamza73537/Leetcode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/AmeerHamza73537/Leetcode/tree/master/0816-design-hashset) |
 | [0890-lemonade-change](https://github.com/AmeerHamza73537/Leetcode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/AmeerHamza73537/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0948-sort-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AmeerHamza73537/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/AmeerHamza73537/Leetcode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/AmeerHamza73537/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/AmeerHamza73537/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0816-design-hashset](https://github.com/AmeerHamza73537/Leetcode/tree/master/0816-design-hashset) |
 | [1319-unique-number-of-occurrences](https://github.com/AmeerHamza73537/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AmeerHamza73537/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AmeerHamza73537/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AmeerHamza73537/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0816-design-hashset](https://github.com/AmeerHamza73537/Leetcode/tree/master/0816-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AmeerHamza73537/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AmeerHamza73537/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/AmeerHamza73537/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
