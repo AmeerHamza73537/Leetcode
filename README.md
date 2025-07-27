@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AmeerHamza73537/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AmeerHamza73537/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/AmeerHamza73537/Leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/AmeerHamza73537/Leetcode/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AmeerHamza73537/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/AmeerHamza73537/Leetcode/tree/master/1137-height-checker) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
