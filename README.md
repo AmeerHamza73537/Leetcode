@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/AmeerHamza73537/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1755-defuse-the-bomb](https://github.com/AmeerHamza73537/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/AmeerHamza73537/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AmeerHamza73537/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AmeerHamza73537/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/AmeerHamza73537/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Simulation
 |  |
 | ------- |
