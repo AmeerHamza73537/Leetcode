@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AmeerHamza73537/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AmeerHamza73537/Leetcode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AmeerHamza73537/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3790-fruits-into-baskets-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AmeerHamza73537/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AmeerHamza73537/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/AmeerHamza73537/Leetcode/tree/master/0874-backspace-string-compare) |
+| [3790-fruits-into-baskets-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -295,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/AmeerHamza73537/Leetcode/tree/master/0476-number-complement) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
