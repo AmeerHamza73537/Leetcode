@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AmeerHamza73537/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AmeerHamza73537/Leetcode/tree/master/0816-design-hashset) |
 | [0890-lemonade-change](https://github.com/AmeerHamza73537/Leetcode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/AmeerHamza73537/Leetcode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/AmeerHamza73537/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AmeerHamza73537/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AmeerHamza73537/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/AmeerHamza73537/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/AmeerHamza73537/Leetcode/tree/master/0898-transpose-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/AmeerHamza73537/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AmeerHamza73537/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AmeerHamza73537/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/AmeerHamza73537/Leetcode/tree/master/0898-transpose-matrix) |
 ## Hash Function
 |  |
 | ------- |
