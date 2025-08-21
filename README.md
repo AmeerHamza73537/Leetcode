@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/AmeerHamza73537/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/AmeerHamza73537/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/AmeerHamza73537/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/AmeerHamza73537/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AmeerHamza73537/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/AmeerHamza73537/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/AmeerHamza73537/Leetcode/tree/master/0979-di-string-match) |
+| [1651-shuffle-string](https://github.com/AmeerHamza73537/Leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/AmeerHamza73537/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AmeerHamza73537/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
